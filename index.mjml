@@ -1,0 +1,391 @@
+<mjml>
+  <mj-head>
+    <mj-font name="DM" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" />
+    <mj-title> Marketing practises </mj-title>
+    <mj-preview> Marketing practises to generate increase in sales </mj-preview>
+    <mj-style> h1 { font-size: inherit; } .card-text { padding-left: 20px; } </mj-style>
+  </mj-head>
+  <mj-body width="600px">
+    <!-- Logo section -->
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image
+          width="144px"
+          src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/logo.png"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- End Logo section -->
+
+    <!-- Hero section -->
+
+    <mj-wrapper padding-top="0" background-color="#eef0f2">
+      <mj-section padding-bottom="0">
+        <mj-column padding-left="40px" padding-right="40px">
+          <mj-text
+            align="center"
+            padding-bottom="0"
+            font-family="DM Sans, Arial"
+            font-weight="700"
+            font-size="22px"
+            line-height="33px"
+            color="#252323"
+          >
+            <h1> Email marketing practises to&nbsp;generate increase in&nbsp;sales </h1>
+          </mj-text>
+          <mj-text
+            align="center"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#252323"
+          >
+            Software as&nbsp;a&nbsp;service click-to-call post event feedback social media marketing authority vendor
+            analysis Zoom request.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image
+            width="520px"
+            src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/hero.png"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column padding-left="40px">
+          <mj-text
+            align="left"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#252323"
+          >
+            Hosted dialer consumer show traffic flow Marketo customer journey content&nbsp;experience tags content
+            management system marketing funnel&nbsp;domain&nbsp;name server pre event feedback enterprise resource
+            planning.&nbsp;Domain authority session weighted pipeline content management&nbsp;system bounce rate social
+            media.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-button
+            href="#!"
+            font-family="DM Sans, Arial"
+            font-weight="500"
+            line-height="21px"
+            color="#fff"
+            background-color="#252323"
+            target="_blank"
+            rel="noopener"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- End Hero section -->
+
+    <!-- Card section -->
+
+    <mj-wrapper background-color="#fff">
+      <mj-section padding-bottom="0">
+        <mj-column padding="0" width="270px">
+          <mj-image
+            width="252px"
+            padding="0"
+            padding-bottom="14px"
+            src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/project.png"
+          />
+          <mj-text
+            padding="0"
+            font-family="DM Sans, Arial"
+            font-weight="700"
+            font-size="16px"
+            line-height="24px"
+            color="#252323"
+          >
+            <div class="card-text"> Side Project Marketing Is the New King </div>
+          </mj-text>
+          <mj-button
+            align="left"
+            padding="0"
+            href="#!"
+            target="_blank"
+            rel="noopener"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#e63946"
+            background-color="transparent"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0" width="270px">
+          <mj-image
+            width="252px"
+            padding="0"
+            padding-bottom="14px"
+            src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/Influencer.png"
+          />
+          <mj-text
+            padding="0"
+            font-family="DM Sans, Arial"
+            font-weight="700"
+            font-size="16px"
+            line-height="24px"
+            color="#252323"
+          >
+            <div class="card-text"> How Influencer Marketing Needs to be Decentralized </div>
+          </mj-text>
+          <mj-button
+            align="left"
+            padding="0"
+            href="#!"
+            target="_blank"
+            rel="noopener"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#e63946"
+            background-color="transparent"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column padding="0" width="270px">
+          <mj-image
+            width="252px"
+            padding="0"
+            padding-bottom="14px"
+            src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/websites.png"
+          />
+          <mj-text
+            padding="0"
+            font-family="DM Sans, Arial"
+            font-weight="700"
+            font-size="16px"
+            line-height="24px"
+            color="#252323"
+          >
+            <div class="card-text"> 4 Websites That Pay Writers Around $200+ an Article </div>
+          </mj-text>
+          <mj-button
+            align="left"
+            padding="0"
+            href="#!"
+            target="_blank"
+            rel="noopener"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#e63946"
+            background-color="transparent"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0" width="270px">
+          <mj-image
+            width="252px"
+            padding="0"
+            padding-bottom="14px"
+            src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/pitfalls.png"
+          />
+          <mj-text
+            padding="0"
+            font-family="DM Sans, Arial"
+            font-weight="700"
+            font-size="16px"
+            line-height="24px"
+            color="#252323"
+          >
+            <div class="card-text"> Avoid These 7 Pitfalls When Starting Your Side Hustle </div>
+          </mj-text>
+          <mj-button
+            align="left"
+            padding="0"
+            href="#!"
+            target="_blank"
+            rel="noopener"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="14px"
+            line-height="21px"
+            color="#e63946"
+            background-color="transparent"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-button
+            href="#!"
+            padding-top="0"
+            font-family="DM Sans, Arial"
+            font-weight="500"
+            line-height="21px"
+            color="#fff"
+            background-color="#252323"
+            target="_blank"
+            rel="noopener"
+          >
+            Read more
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- End Card section -->
+
+    <!-- Social section -->
+
+    <mj-section padding-top="0" background-color="#fff">
+      <mj-group width="320px">
+        <mj-column>
+          <mj-button padding="0" href="#!" padding="0" background-color="transparent" target="_blank" rel="noopener">
+            <img
+              src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/facebook.png"
+              width="32"
+            />
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button href="#!" padding="0" background-color="transparent" target="_blank" rel="noopener">
+            <img
+              src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/twitter.png"
+              width="32"
+            />
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button href="#!" padding="0" background-color="transparent" target="_blank" rel="noopener">
+            <img
+              src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/linkedin.png"
+              width="32"
+            />
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button href="#!" padding="0" background-color="transparent" target="_blank" rel="noopener">
+            <img
+              src="https://raw.githubusercontent.com/vedinche/Images/refs/heads/main/Marketing/instagram.png"
+              width="32"
+            />
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- End Social section -->
+
+    <!-- Bottom text section -->
+
+    <mj-section padding-top="0" background-color="#fff">
+      <mj-column width="500px">
+        <mj-text
+          align="center"
+          font-family="DM Sans, Arial"
+          font-weight="400"
+          font-size="14px"
+          line-height="21px"
+          color="#7a7474"
+        >
+          Odio id mattis vitae, sagittis amet, auctor quam elementum morbi. Faucibus orci adipiscing sit morbi ut non
+          hac egestas. Sagittis mattis facilisi cum lacus.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- End Bottom text section -->
+
+    <!-- Footer section -->
+
+    <mj-section padding-top="0" padding-bottom="0" background-color="#fff">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-family="DM Sans, Arial"
+          font-weight="400"
+          font-size="12px"
+          line-height="16px"
+          color="#000"
+        >
+          Sent by yourcomapnyname, location, P.O. Box
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" background-color="#fff">
+      <mj-group>
+        <mj-column padding="0">
+          <mj-button
+            padding="0"
+            href="#!"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="12px"
+            line-height="18px"
+            color="#000"
+            background-color="transparent"
+            text-decoration="underline"
+            target="_blank"
+            rel="noopener"
+          >
+            Help Center
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-button
+            padding="0"
+            href="#!"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="12px"
+            line-height="18px"
+            color="#000"
+            background-color="transparent"
+            text-decoration="underline"
+            target="_blank"
+            rel="noopener"
+          >
+            Privacy Policy
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-button
+            padding="0"
+            href="#!"
+            font-family="DM Sans, Arial"
+            font-weight="400"
+            font-size="12px"
+            line-height="18px"
+            color="#000"
+            background-color="transparent"
+            text-decoration="underline"
+            target="_blank"
+            rel="noopener"
+          >
+            Terms of Service
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- End Footer section -->
+  </mj-body>
+</mjml>
